@@ -90,8 +90,6 @@ This report summarizes key insights obtained from transactional data of **Kultra
 4. **Align shipping methods with order urgency** to reduce operational cost
 
 
-## SQL QUERIES
-https://github.com/chrisblu15/MYSQL-PROJECT/blob/main/my_queries.sql
 
 
 
