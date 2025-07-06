@@ -85,7 +85,7 @@ This report summarizes key insights obtained from transactional data of **Kultra
 
 ## Final Recommendations 
 1. **Target customers with low value with helpful stragetigies to increase venue and profits in return
-2  **Expand market efforts** in underperforming regions with growth stragetigies.
+2.  **Expand market efforts** in underperforming regions with growth stragetigies.
 3. Serch for  reasons behind number of returns in specific product lines
 4. **Align shipping methods with order urgency** to reduce operational cost
 
